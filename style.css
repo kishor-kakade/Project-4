@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-color: #c1c5c4;
+    height: 100vh;
+    width: 100wh;
+}
+#navbarMonstera{
+    display: flex;
+    justify-content: space-between;
+}
+#navFirst{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#navMid{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+   width: 800px;
+   float: left;
+   position: relative;
+    left:10px; 
+    
+   
+}
+#navEnd{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+    width: 150px;
+   float: left;
+   position: relative;
+    left:10px;
+}
+#midWhole {
+    display: flex;
+}
+#midWholePart1 {
+    display: flex;
+    justify-content: space-between;
+}
+#midWholePart11 {
+      
+    margin-top: 100px;
+     margin-left: 50px;
+     font-size: 20px;
+     color:#080808;
+     font-family: "family Abel";
+}
+#monstera{
+    font-size: 70px;  
+    font-family: "family Allerta";
+    color: #000000;
+}
+
+#midWholePart12{
+     
+    margin-top: 400px;
+  
+}
+#midWholePart121{
+
+    position: absolute;
+    left: 50px;
+    padding: 15px;
+    background-color:#466d50 ;
+    border-radius: 25px;
+    font-family: "family Allerta";
+    color: #e3e7e4;
+}
+#midWholePart122{
+     
+    margin-left: 178px;
+    margin-top: -32px;
+}
+
+#midWholePart13{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+/* .midWholePart13Parts{
+    display: flex;
+    margin-top: 350px;
+
+    
+} */
+#feeding{
+    
+    position: absolute;
+    left: 50px;
+    top: 650px;
+    
+}
+
+
+.text1{
+    position: absolute;
+    left: 150px;
+    top: 680px;
+
+
+}
+
+.feeding{
+    margin-left: -730px;
+    margin-top: 400px;
+    font-size: 20px;
+    font-family: "family Allerta";
+}
+
+
+
+ 
+
+#light{
+
+    margin-left: -560px;
+    margin-top: 470px;
+
+}
+.text2{
+   
+   position: absolute;
+   left: 380px;
+   top: 690px;
+}
+.light{
+  margin-left: -500px;
+  position: absolute;
+ top: 670px;
+ font-size: 20px;
+ font-family: "family Allerta";
+}
+
+
+
+
+#care{
+
+ margin-left: -330px;
+ margin-top: 480px;
+}
+
+
+.text3{
+   position: absolute;
+   left: 620px;
+   top: 700px;
+
+}
+
+.care{
+
+   display: flex;
+   position: absolute;
+   left: 630px;
+   top: 680px;
+   font-size: 20px;
+   font-family: "family Allerta";
+}
+
+
